@@ -1,0 +1,3 @@
+com\example\workflow\Application.class
+com\example\workflow\service\HelloWorldService.class
+com\example\workflow\service\HelloWorldInitiator.class
